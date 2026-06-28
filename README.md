@@ -1,5 +1,6 @@
 # Furback-Mod-Checker
 Mod checker for gtag
 
-<img width="954" height="334" alt="image" src="https://github.com/user-attachments/assets/0458b4ef-a016-4450-867b-ec1d1bd369f5" />
+<img width="682" height="353" alt="image" src="https://github.com/user-attachments/assets/1a0c5840-b665-4a13-8ebf-ccdef41c3af2" />
+
 
